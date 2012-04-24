@@ -15,7 +15,7 @@ gem 'dm-core', DM_VERSION,
   :branch => CURRENT_BRANCH
 
 gem 'fastercsv',  '~> 1.5.4'
-gem 'multi_json', '~> 1.0.3'
+gem 'multi_json', '~> 1.3.2'
 gem 'json',       '~> 1.6.1', :platforms => [ :ruby_18, :jruby ]
 gem 'json_pure',  '~> 1.6.1', :platforms => [ :mswin ]
 
